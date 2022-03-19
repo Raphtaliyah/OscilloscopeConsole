@@ -1,0 +1,5 @@
+.nlist
+	.lp51ed2
+
+	.include "at51xx2.asm"
+	.include "at51xx2_bits.asm"
